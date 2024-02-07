@@ -6,19 +6,19 @@
       "value": "contoso"
     },
     "platformManagementGroup": {
-      "value": "contoso-platform"
+      "value": "Platform"
     },
     "IdentityManagementGroup": {
-      "value": "contoso-identity"
+      "value": "Identity"
     },
     "managementManagementGroup": {
-      "value": "contoso-management"
+      "value": "Management"
     },
     "connectivityManagementGroup": {
-      "value": "contoso-connectivity"
+      "value": "Connectivity"
     },
     "LandingZoneManagementGroup": {
-      "value": "contoso-landingzones"
+      "value": "Landing_Zones"
     },
     "enableAMBAConnectivity": {
       "value": "Yes"
@@ -49,14 +49,14 @@
           }
         },
         "ALZMonitorResourceGroupLocation": {
-          "value": "eastus"
+          "value": "westeurope"
         }
       }
     },
     "policyAssignmentParametersServiceHealth": {
       "value": {
         "ALZMonitorActionGroupEmail": {
-          "value": "action@mail.com"
+          "value": "p.jangbahadoersing@login-orange.com"
         },
         "ResHlthUnhealthyAlertState": {
           "value": "true"
